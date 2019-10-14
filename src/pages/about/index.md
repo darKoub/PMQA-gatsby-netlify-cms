@@ -2,10 +2,10 @@
 templateKey: about-page
 title: Wakanda JavaScript Developer Meetup
 mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
+  image: /img/2617716_orig.jpg
   imageAlt: Wakanda JavaScript developer presenting at a meetup.
 gallery:
-  - image: /img/neonbrand-509131-unsplash.jpg
+  - image: /img/2617716_orig.jpg
     imageAlt: Wakanda JavaScript developer presenting at a meetup.
   - image: /img/jakob-dalbjorn-730178-unsplash.jpg
     imageAlt: Wakanda JavaScript developer presenting at a meetup.
@@ -36,6 +36,18 @@ seo:
     the community.
   title: About | JS Wakanda
 ---
-## Sharing Ideas and Meeting Others
+## About us
 
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+PMQA is a non–profit association, which promotes the professional interests of its members, who are engaged in management and quality.
+
+
+
+Our Goal and Objectives
+
+To promote the professional interests of its members
+
+To improve knowledge and skills of members in relevant interest areas
+
+To provide an outlet for professional networking and social interactions between members and the public at large
+
+To establish relationships with other like-minded organizations, with the intent of promoting the Association’s interests
