@@ -1,11 +1,21 @@
 ---
 templateKey: past-meetups-page
-title: Past Meetups
-path: /meetups
+title: Past Events
 seo:
-  browserTitle: Past Meetups | JS Wakanda
-  description: View the topics that were presented at past JavaScript Montreal meetups.
-  title: Past Meetups | JavaScript Wakanda
+  browserTitle: Past Events| Workshops
+  description: View the topics that were presented at past events.
+  title: Past Events| Workshops
 ---
+PMQA is a non–profit association, which promotes the professional interests of its members, who are engaged in management and quality.
 
-Here are some of the subjects we've covered in past meetups. If you're interested in participating by giving a talk, don't worry too much if we've touched on the subject before. New people join every day and there are a lot of subjects warranting a re-visit.
+
+
+Our Goal and Objectives
+
+To promote the professional interests of its members
+
+To improve knowledge and skills of members in relevant interest areas
+
+To provide an outlet for professional networking and social interactions between members and the public at large
+
+To establish relationships with other like-minded organizations, with the intent of promoting the Association’s interests
