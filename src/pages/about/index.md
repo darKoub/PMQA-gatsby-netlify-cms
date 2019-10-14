@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
+title: PMQA
 mainImage:
   image: /img/2617716_orig.jpg
   imageAlt: Wakanda JavaScript developer presenting at a meetup.
